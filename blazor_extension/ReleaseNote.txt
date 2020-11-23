@@ -1,0 +1,2 @@
+﻿2020-11-23 provide blazor component file template with code behine file and css file.
+ 
