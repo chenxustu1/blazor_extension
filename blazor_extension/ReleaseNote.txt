@@ -1,2 +1,2 @@
-﻿2020-11-23 provide blazor component file template with code behine file and css file.
- 
+﻿2020-11-23 - chenxustu1 - Provide blazor component file template with code behine file and css file.
+2021-07-12 - KevinValmo - Add support to Visual Studio 2022 Preview
