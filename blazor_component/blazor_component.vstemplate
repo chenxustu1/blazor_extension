@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
 	<TemplateData>
-		<Name>blazor_component</Name>
-		<Description>Blazor component with code behine file and css file</Description>
+		<Name>Blazor Component</Name>
+		<Description>Blazor component with code behind file and css file</Description>
 		<Icon>blazor_component_icon.png</Icon>
 		<TemplateID>1877733a-0e33-4634-bcb6-4ba9c5691bc6</TemplateID>
 		<ProjectType>CSharp</ProjectType>
